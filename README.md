@@ -36,10 +36,9 @@ Este é um simples site de **Amigo Secreto** desenvolvido com HTML, CSS e JavaSc
 
 ## Como Rodar
 
-1. Baixe ou clone o repositório.
-2. Abra o arquivo `index.html` no seu navegador.
-3. Insira os nomes dos seus amigos e clique em "Adicionar".
-4. Clique em "Sortear Amigo Secreto" para realizar o sorteio.
+1. Acesse o deploy em: https://roaring90s.github.io/amigoSecreto/
+2. Insira os nomes dos seus amigos e clique em "Adicionar".
+3. Clique em "Sortear Amigo Secreto" para realizar o sorteio.
 
 ## Contribuição
 
